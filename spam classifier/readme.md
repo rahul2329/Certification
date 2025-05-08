@@ -25,7 +25,6 @@ This project is a binary text classification task that identifies whether an ema
    ```
 
 **Data Folder:**
-Rename the extracted Enron dataset folder to `data` so that the notebook works without modification:
 
 ```
 data/
