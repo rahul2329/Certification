@@ -21,7 +21,7 @@ This project is a binary text classification task that identifies whether an ema
 3. **Run the notebook:**
 
    ```bash
-   jupyter notebook task3_complete_freshlook.ipynb
+   jupyter notebook part2.ipynb
    ```
 
 **Data Folder:**
